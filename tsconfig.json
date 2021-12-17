@@ -12,6 +12,8 @@
       "moduleResolution": "node",
       "importHelpers": true,
       "target": "es2015",
+      "esModuleInterop": true,
+      "skipLibCheck": true,
       "typeRoots": [
         "node_modules/@types"
       ],
